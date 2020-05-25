@@ -4,7 +4,7 @@
 
 Followings are those projects and related materials covered/implemented in each project.
 
-- **Project 1**
+- [**Project 1**](/project1)
   - Implementing DNN's components (from scratch w/ numpy)
     - affine layer
     - activations (relu, leaky relu, sigmoid, elu)
