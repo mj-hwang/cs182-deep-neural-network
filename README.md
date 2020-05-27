@@ -5,7 +5,7 @@
 Followings are those projects and related materials covered/implemented in each project.
 
 - [**Project 1**](/project1)
-  - Implementing DNN's components (from scratch w/ numpy)
+  - Implementing DNN's/CNN's components (from scratch w/ numpy)
     - affine layer
     - activations (relu, leaky relu, sigmoid, elu)
     - convolutional layer
@@ -15,3 +15,9 @@ Followings are those projects and related materials covered/implemented in each 
   - Dropout
   - Batch Normalization
   - Convolutional Network on CIFAR-10
+  
+- [**Project 2**](/project2)
+  - Style Transfer
+  - Network Visualization
+  - Implementing RNN's/LSTM's components (from scratch w/ numpy)
+  - Image Captioning with RNN and LSTM
