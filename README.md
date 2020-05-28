@@ -21,3 +21,9 @@ Followings are those projects and related materials covered/implemented in each 
   - Network Visualization
   - Implementing RNN's/LSTM's components (from scratch w/ numpy)
   - Image Captioning with RNN and LSTM
+
+- [**Project 3**](/project3)
+  - Language Modeling with LSTM
+  - Text Summarization with different models
+    - LSTM
+    - Transformer
