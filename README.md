@@ -29,3 +29,10 @@ Followings are those projects and related materials covered/implemented in each 
     - Transformer
 
 - [**Project 4**](/project4)
+  - Policy Gradient
+    - normalizing advantage
+    - full trajectory / reward-to-go
+    - hyperparameter fitting
+  - Deep Q Network
+    - DQN/DDQN
+    - hyperparameter fitting
